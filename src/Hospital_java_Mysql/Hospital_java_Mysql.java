@@ -581,7 +581,7 @@ public class Hospital_java_Mysql extends javax.swing.JFrame {
         jcboGender2.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Select", "Female", "Male" }));
         jPanel3.add(jcboGender2, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 140, 300, -1));
 
-        jPanel23.add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, 420, 300));
+        jPanel23.add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 0, 420, 300));
 
         jPanel22.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(255, 0, 0), 7));
         jPanel22.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
